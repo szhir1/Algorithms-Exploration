@@ -63,5 +63,6 @@
 * **AO 25**:  (seconds)
 ----------------------------
 -----------------
-
+Sources:
+* <a href="https://www.cs.brandeis.edu/~storer/JimPuzzles/RUBIK/Pyraminx/PyraminxSolutionDRB.pdf"></a>
 
