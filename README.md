@@ -64,5 +64,5 @@
 ----------------------------
 -----------------
 Sources:
-* <a href="https://www.cs.brandeis.edu/~storer/JimPuzzles/RUBIK/Pyraminx/PyraminxSolutionDRB.pdf"></a>
+* <a href="https://www.cs.brandeis.edu/~storer/JimPuzzles/RUBIK/Pyraminx/PyraminxSolutionDRB.pdf">Simple Pyraminx Solution</a>
 
