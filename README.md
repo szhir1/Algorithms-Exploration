@@ -1,5 +1,5 @@
 # Algorithms-Exploration
-<h3>Date: 2/13/2020</h3>
+* <h3>Date: 2/13/2020
 * **Type of cube**: Pyraminx duo
 * **Solve (y/n)**: Y
 * **Method used**:Advanced Method
@@ -15,7 +15,7 @@
 * **AO 25**: - (seconds)
 -----------------------------------
 ------------------------
-<h3>Date: 2/14/2020
+* <h3>Date: 2/14/2020
 * **Type of cube**: Pyraminx 
 * **Solve (y/n)**: N
 * **Method used**: -
@@ -31,7 +31,7 @@
 * **AO 25**: 6.22 (seconds)
 ---------------------------------------
 ------------------------------
-<h3>Date: 2/18/2020
+* <h3>Date: 2/18/2020
 * **Type of cube**: Pyraminx 
 * **Solve (y/n)**: N
 * **Method used**: -
@@ -47,7 +47,7 @@
 * **AO 25**: 6.47 (seconds)
 --------------------------------
 -------------------------------
-<h3>Date: 2/19/2020
+* <h3>Date: 2/19/2020
 * **Type of cube**: Pyraminx 
 * **Solve (y/n)**: N
 * **Method used**: -
