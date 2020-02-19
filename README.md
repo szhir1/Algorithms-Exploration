@@ -1,5 +1,5 @@
 # Algorithms-Exploration
-* <h2>**Date**: 2/13/2020<\h2>
+* <h3>**Date**: 2/13/2020<\h3>
 * **Type of cube**: Pyraminx duo
 * **Solve (y/n)**: Y
 * **Method used**:Advanced Method
