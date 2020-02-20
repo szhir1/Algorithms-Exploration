@@ -65,4 +65,12 @@
 -----------------
 Sources:
 * <a href="https://www.cs.brandeis.edu/~storer/JimPuzzles/RUBIK/Pyraminx/PyraminxSolutionDRB.pdf">Simple Pyraminx Solution</a>
+* <a href="https://solve-that-cube.weebly.com/uploads/8/6/6/0/86607378/bens_pyraminx_sheet.pdf">BEN’S PYRAMINX SHEET</a>
+* <a href="https://www.youtube.com/watch?v=2H0FUvaaUsI">EASIEST WAY TO SOLVE THE PYRAMINX PUZZLE</a>
+* <a href="https://ruwix.com/twisty-puzzles/pyraminx-triangle-rubiks-cube/">Pyraminx</a>
+* <a href="https://nerdparadise.com/puzzles/pyraminx">Pyraminx Solution</a>
+* <a href="https://www.youtube.com/watch?v=GANnG5a19kg">Learn How to Solve a 2x2 Rubik's Cube</a>
+* <a href="https://www.youcandothecube.com/solve-it/2-x-2-solution">2x2 Online Solution</a>
+* <a href="https://ruwix.com/twisty-puzzles/2x2x2-rubiks-cube-pocket/">The 2x2x2 Rubik's Cube - Beginner's Solution</a>
+  
 
