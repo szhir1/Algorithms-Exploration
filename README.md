@@ -62,7 +62,28 @@
 * **AO 12**:  (seconds)
 * **AO 25**:  (seconds)
 ----------------------------
+--------------------
+* <h3>Date: 2/19/2020
+* **Type of cube**: Pyraminx 
+* **Solve (y/n)**: Y
+* **Method used**: -
+* **AO 5**: - (seconds)
+* **AO 12**: - (seconds)
+* **AO 25**: - (seconds)
+--------------------------------
+* **Type of cube**: Pyraminx duo
+* **Solve (y/n)**: Y
+* **Method used**:Advanced Method
+* **AO 5**:  (seconds)
+* **AO 12**:  (seconds)
+* **AO 25**:  (seconds)
 -----------------
+ * **Type of cube**: 2 by 2 Cube
+* **Solve (y/n)**: Y
+* **Method used**: Simple Method
+* **AO 5**: 4:07 (seconds)
+* **AO 12**:  (seconds)
+* **AO 25**:  (seconds)
 Sources:
 * <a href="https://www.cs.brandeis.edu/~storer/JimPuzzles/RUBIK/Pyraminx/PyraminxSolutionDRB.pdf">Simple Pyraminx Solution</a>
 * <a href="https://solve-that-cube.weebly.com/uploads/8/6/6/0/86607378/bens_pyraminx_sheet.pdf">BEN’S PYRAMINX SHEET</a>
