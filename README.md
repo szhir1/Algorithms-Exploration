@@ -1,6 +1,6 @@
 # Algorithms-Exploration
 * <h3>Date: 2/13/2020
-* **Type of cube**: Pyraminx duo
+* **Type of cube**: Pyraminx duo - 1 out of 5
 * **Solve (y/n)**: Y
 * **Method used**:Advanced Method
 * **AO 5**: 6:12 (seconds)
@@ -15,7 +15,7 @@
 * **Type of cube**: Pyraminx 
 * **Solve (y/n)**: N
 ---------------------------
-* **Type of cube**: Pyraminx duo
+* **Type of cube**: Pyraminx duo - 2 out of 5
 * **Solve (y/n)**: Y
 * **Method used**:Advanced Method
 * **AO 5**: 4:09 (seconds)
@@ -27,7 +27,7 @@
 * **Type of cube**: Pyraminx 
 * **Solve (y/n)**: Y
 ---------------------------------
-* **Type of cube**: Pyraminx duo
+* **Type of cube**: Pyraminx duo - 3 out of 5
 * **Solve (y/n)**: Y
 * **Method used**:Advanced Method
 * **AO 5**: 5:37 (seconds)
@@ -36,14 +36,14 @@
 --------------------------------
 -------------------------------
 * <h3>Date: 2/19/2020
-* **Type of cube**: Pyraminx 
+* **Type of cube**: Pyraminx - 1 out of 5
 * **Solve (y/n)**: Y
 * **Method used**: Simple Method 
-* **AO 5**: 16:35 (seconds)
-* **AO 12**: 18:24 (seconds)
+* **AO 5**: 16:35 (minutes)
+* **AO 12**: 18:24 (minutes)
 
 --------------------------------
-* **Type of cube**: Pyraminx duo
+* **Type of cube**: Pyraminx duo - 4 out of 5
 * **Solve (y/n)**: Y
 * **Method used**:Advanced Method
 * **AO 5**: 5:13 (seconds)
@@ -51,22 +51,23 @@
 ----------------------------
 --------------------
 * <h3>Date: 2/20/2020
-* **Type of cube**: Pyraminx 
+* **Type of cube**: Pyraminx - 2 out of 5
 * **Solve (y/n)**: Y
-* **Method used**: -
-* **AO 5**: - (seconds)
-* **AO 12**: - (seconds)
+* **Method used**: Simple Method
+* **AO 5**: - (minutes)
+* **AO 12**: - (minutes)
 --------------------------------
-* **Type of cube**: Pyraminx duo
+* **Type of cube**: Pyraminx duo - 5 out of 5 DONE
 * **Solve (y/n)**: Y
 * **Method used**:Advanced Method
 * **AO 5**: 4:55 (seconds)
 * **AO 12**: 5:09 (seconds)
 -----------------
- * **Type of cube**: 2 by 2 Cube
+ * **Type of cube**: 2 by 2 Cube - 1 out 5 
 * **Solve (y/n)**: Y
 * **Method used**: Simple Method
-* **AO 5**: 4:07 (seconds)
+* **AO 5**: 4:07 (minutes)
+* **AO 12**: 6:11 (minutes)
 
 Sources:
 * <a href="https://www.cs.brandeis.edu/~storer/JimPuzzles/RUBIK/Pyraminx/PyraminxSolutionDRB.pdf">Simple Pyraminx Solution</a>
