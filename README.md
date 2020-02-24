@@ -88,8 +88,8 @@
  * **Type of cube**: 2 by 2 Cube - 2 out 5 
 * **Solve (y/n)**: Y
 * **Method used**: Simple Method
-* **AO 5**: - (minutes)
-* **AO 12**: - (minutes)
+* **AO 5**: 3:33 (minutes)
+* **AO 12**: 2:37 (minutes)
 Sources:
 * <a href="https://www.cs.brandeis.edu/~storer/JimPuzzles/RUBIK/Pyraminx/PyraminxSolutionDRB.pdf">Simple Pyraminx Solution</a>
 * <a href="https://solve-that-cube.weebly.com/uploads/8/6/6/0/86607378/bens_pyraminx_sheet.pdf">BEN’S PYRAMINX SHEET</a>
