@@ -90,6 +90,20 @@
 * **Method used**: Simple Method
 * **AO 5**: 3:33 (minutes)
 * **AO 12**: 2:37 (minutes)
+----------------
+----------------
+* <h3>Date: 2/25/2020
+* **Type of cube**: Pyraminx - 4 out of 5
+* **Solve (y/n)**: Y
+* **Method used**: Simple Method
+* **AO 5**: - (minutes)
+* **AO 12**: - (minutes)
+-----------------
+ * **Type of cube**: 2 by 2 Cube - 3 out 5 
+* **Solve (y/n)**: Y
+* **Method used**: Simple Method
+* **AO 5**: 1:43 (minutes)
+* **AO 12**: 2:24 (minutes)
 Sources:
 * <a href="https://www.cs.brandeis.edu/~storer/JimPuzzles/RUBIK/Pyraminx/PyraminxSolutionDRB.pdf">Simple Pyraminx Solution</a>
 * <a href="https://solve-that-cube.weebly.com/uploads/8/6/6/0/86607378/bens_pyraminx_sheet.pdf">BEN’S PYRAMINX SHEET</a>
