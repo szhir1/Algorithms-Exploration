@@ -93,17 +93,27 @@
 ----------------
 ----------------
 * <h3>Date: 2/25/2020
-* **Type of cube**: Pyraminx - 4 out of 5
-* **Solve (y/n)**: Y
-* **Method used**: Simple Method
-* **AO 5**: - (minutes)
-* **AO 12**: - (minutes)
 -----------------
  * **Type of cube**: 2 by 2 Cube - 3 out 5 
 * **Solve (y/n)**: Y
 * **Method used**: Simple Method
 * **AO 5**: 1:43 (minutes)
 * **AO 12**: 2:24 (minutes)
+----------------
+----------------
+* <h3>Date: 2/26/2020
+-----------------
+ * **Type of cube**: 2 by 2 Cube - 4 out 5 
+* **Solve (y/n)**: Y
+* **Method used**: Simple Method
+* **AO 5**: 1:45 (minutes)
+* **AO 12**: 1:44 (minutes)
+----------------------------
+* **Type of cube**: Pyraminx - 4 out of 5
+* **Solve (y/n)**: Y
+* **Method used**: Simple Method
+* **AO 5**: - (minutes)
+* **AO 12**: 7;56 (minutes)
 Sources:
 * <a href="https://www.cs.brandeis.edu/~storer/JimPuzzles/RUBIK/Pyraminx/PyraminxSolutionDRB.pdf">Simple Pyraminx Solution</a>
 * <a href="https://solve-that-cube.weebly.com/uploads/8/6/6/0/86607378/bens_pyraminx_sheet.pdf">BEN’S PYRAMINX SHEET</a>
