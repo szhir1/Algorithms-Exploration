@@ -131,6 +131,19 @@
 * **Method used**: Simple Method
 * **AO 5**: 9:23 (minutes)
 * **AO 12**: 8:37 (minutes)
+----------------
+----------------
+* <h3>Date: 3/02/2020
+-----------------
+ * **Type of cube**: 2 by 2 Cube - blindfolded
+* **Solve (y/n)**: Y
+* **Method used**: Simple Method
+* **AO 3**: 1:40 (minutes)
+----------------------------
+* **Type of cube**: Pyraminx duo - blindfolded
+* **Solve (y/n)**: Y
+* **Method used**: Advanced Method
+* **AO 3**: 9:24 (seconds)
 
  
 Sources:
