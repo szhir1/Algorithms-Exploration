@@ -118,7 +118,7 @@
 ----------------
 * <h3>Date: 2/29/2020
 -----------------
- * **Type of cube**: 2 by 2 Cube - 5 out 5 
+ * **Type of cube**: 2 by 2 Cube - 5 out 5 DONE
 * **Solve (y/n)**: Y
 * **Method used**: Simple Method
 * **AO 5**: 1:40 (minutes)
@@ -126,7 +126,7 @@
  ----------------
 ----------------
 * <h3>Date: 2/1/2020
-* **Type of cube**: Pyraminx - 5 out of 5
+* **Type of cube**: Pyraminx - 5 out of 5 DONE
 * **Solve (y/n)**: Y
 * **Method used**: Simple Method
 * **AO 5**: 9:23 (minutes)
@@ -135,12 +135,12 @@
 ----------------
 * <h3>Date: 3/02/2020
 -----------------
- * **Type of cube**: 2 by 2 Cube - blindfolded
+ * **Type of cube**: 2 by 2 Cube - blindfolded DONE
 * **Solve (y/n)**: Y
 * **Method used**: Simple Method
 * **AO 3**: 1:40 (minutes)
 ----------------------------
-* **Type of cube**: Pyraminx duo - blindfolded
+* **Type of cube**: Pyraminx duo - blindfolded DONE
 * **Solve (y/n)**: Y
 * **Method used**: Advanced Method
 * **AO 3**: 9:24 (seconds)
