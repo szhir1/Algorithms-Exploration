@@ -144,6 +144,11 @@
 * **Solve (y/n)**: Y
 * **Method used**: Advanced Method
 * **AO 3**: 9:24 (seconds)
+----------------------------
+* **Type of cube**: 2 by 2 Cube - validated by Jaiden
+* **Solve (y/n)**: Y
+* **Method used**: Simple Method
+* **AO 3**: 1:23 (minutes)
 
  
 Sources:
